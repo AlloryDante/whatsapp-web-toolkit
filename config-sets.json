@@ -1,0 +1,14 @@
+{
+  "production": {
+    "isDebug": false,
+    "tiny_npm_updater": {
+      "autoupdate": true,
+      "logDir": "./log/tiny-npm-updater",
+      "current_working_directory": "D:\\Desktop\\whatsapp-web.js toolkit",
+      "updateCheckInterval_seconds": 86400
+    }
+  },
+  "development": {
+    "isDebug": true
+  }
+}
